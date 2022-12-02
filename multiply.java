@@ -4,5 +4,6 @@ public class multiply {
         int b = 20;
         int ans = a * b;
         System.out.println("Multiply : "+ans);
+        System.out.println("--------------");
     }
 }
